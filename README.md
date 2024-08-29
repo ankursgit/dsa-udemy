@@ -15,6 +15,7 @@ Acceptable Solutions:
 
     1. < 10^7
     2. < (10^7 - 10^8)
+    3. > 10^8 (NOT ACCEPTABLE)
 
 Things to Learn:
 --
